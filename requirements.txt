@@ -1,0 +1,8 @@
+click==6.6
+coreapi==1.32.3
+coreapi-cli==1.0.0
+Django==1.10
+djangorestframework==3.4.5
+itypes==1.1.0
+requests==2.11.1
+uritemplate==3.0.0
