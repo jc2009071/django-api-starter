@@ -76,11 +76,12 @@ To browse API with Core API:
 **Browse**
 
 `coreapi get http://127.0.0.1:8000`
+
 `coreapi action users list`
 etc.
 
 ## TODO
 
-- [ ] Facebook and JWT Auth
+- [x] Facebook and JWT Auth
 - [ ] Other models implementation
 - [ ] Database seeding
